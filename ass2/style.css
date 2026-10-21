@@ -1,0 +1,18 @@
+body{
+    background-color: aqua;
+}
+.silver {
+    color: #8b8b8b;
+}
+
+.fuchsia {
+    color: #a000a0;
+}
+
+.orange {
+    color: #ff8c00;
+}
+
+.rates {
+    font-family: monospace;
+}
